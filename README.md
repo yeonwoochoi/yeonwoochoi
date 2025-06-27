@@ -30,10 +30,11 @@
 
 ### 🔭 Work Experiences!
 
-#### [2022.01 ~ 2025.06] Run-i Studio - 프론트엔드 / Unity 클라이언트 개발  
-#### [2022.02 ~ 2022.05] Vada Partners - Nuxt 기반 특허 검색 웹 앱 개발  
-#### [2024.02 ~ 2025.05] Yiso's Journey - Ep.1 - Unity 2D RPG 게임 클라이언트 개발  
-#### [2020.02 ~ 2022.05] Jopanda's Math Item Pool - Unity 수학 학습 앱 개발  
+#### [2022.01 ~ 2025.06] Run-i Studio - 프론트엔드 / Unity 클라이언트 개발
+- [2024.02 ~ 2025.05] Yiso's Journey - Ep.1 - Unity 2D RPG 게임 클라이언트 개발
+- [2020.02 ~ 2022.05] Jopanda's Math Item Pool - Unity 수학 학습 앱 개발
+
+#### [2022.02 ~ 2022.05] (외주) Vada Partners - Nuxt 기반 특허 검색 웹 앱 개발
 
 <br/>
 
