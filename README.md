@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Choi%20yeonwoo&fontSize=90)
 ### Hi there 👋 My name is Choiyeonwoo(최연우)!
-#### Run-i Studio 💼 (2022.01 ~ 재직 중)
+#### Run-i Studio 💼 (2022.01 ~ 재직 중)  
+🌐 [https://run-i.com](https://run-i.com)
 
 **[Rallit](https://www.rallit.com/resumes/1601508@rud527/%EC%B5%9C%EC%97%B0%EC%9A%B0)**
 **[Notion](https://www.notion.so/21d642209e4d800c842bd3cb5941b507?source=copy_link)**
