@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Choi%20yeonwoo&fontSize=90)
 ### Hi there 👋 My name is Choiyeonwoo(최연우)!
-#### Run-i Studio 💼 (2020.02 ~ 재직 중)  
+#### 💡 Unity 클라이언트 개발자 | 아키텍처 설계를 통한 문제 해결을 즐깁니다.
+Run-i Studio 💼 (2020.02 ~ 2025.09)  
 🌐 [https://run-i.com](https://run-i.com)
 
 **[Rallit](https://www.rallit.com/resumes/1605551@rud527/%EC%B5%9C%EC%97%B0%EC%9A%B0)**
@@ -9,48 +10,45 @@
 
 ### 💻 Tech Stacks! 
 
-#### 🧑‍💻Frontend
+#### 🎮 Main Skills (Game Development)
+*   **Engine & Language**
+    <br>![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) 
+    ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
+*   **Architecture**
+    <br>![3-Tier](https://img.shields.io/badge/3--Tier-Architecture-blue?style=flat-square)
+    ![MVP](https://img.shields.io/badge/MVP-Architecture-blue?style=flat-square)
+*   **Core Tech & Libraries**
+    <br>![Addressables](https://img.shields.io/badge/Addressables-FF3B00?style=flat-square)
+    ![URP](https://img.shields.io/badge/URP-F05F7F?style=flat-square)
+    ![UniRx](https://img.shields.io/badge/UniRx-DD4814?style=flat-square)
+    ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white)
+
+#### 🌐 Sub Skills (Web & Backend)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black) 
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-
-#### 🎮Game
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) 
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
-
-#### ☁️Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
 
 <br/>
 
 ### 🔭 Work Experiences!
 
-#### [2020.02 ~ 재직 중] Run-i Studio - 프론트엔드 / Unity 클라이언트 개발
-- [2024.02 ~ 2025.05] Yiso's Journey - Ep.1 - Unity 2D RPG 게임 클라이언트 개발
-- [2023.09 ~ 2024.02] Run-i Game Dev Hub - Next.js 기반 No-Code 게임 데이터 관리 툴 개발
-- [2020.02 ~ 2022.05] Jopanda's Math Item Pool - Unity 수학 학습 앱 개발
+#### [2020.02 ~ 2025.09] Run-i Studio - Unity 클라이언트 개발 / 프론트엔드 개발
+- **[2024.02 ~ 2025.05] Yiso's Journey - Ep.1 (Unity 2D RPG)**
+  - 클라이언트 아키텍처 설계 및 성능 최적화 주도
+- **[2023.09 ~ 2024.02] Run-i Game Dev Hub (Next.js)**
+  - 비개발자를 위한 No-Code 게임 데이터 관리 툴 프론트엔드 개발
+- **[2020.02 ~ 2022.05] Jopanda's Math Item Pool (Unity App)**
+  - MVP 아키텍처 도입 및 UI/UX 리팩토링 주도, 다운로드 30배 성장 달성
 
 #### [2022.02 ~ 2022.05] (외주) Vada Partners - Nuxt.js 기반 특허 검색 SaaS 웹 개발
-
-#### [2025.06 ~ ] 취준로드 – AI 기반 맞춤형 취업 로드맵 웹 서비스 (개인 프로젝트)
 
 <br/>
 
 ### 📚 Education
 #### [2016.03 ~ 2023.08] 고려대학교 생명공학부 학사 졸업
-
-<br/>
-
-### 📂 Activities
-#### [2019] 고려대학교 자기주도창의설계 프로그램 - Node.js & MySQL 백엔드 설계 및 구현
 
 <br/>
 
@@ -65,15 +63,4 @@
 **yeonwoochoi/yeonwoochoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Choiyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiyeonwoo)](https://github.com/yeonwoochoi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiyeonwoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
