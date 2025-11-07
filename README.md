@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Choi%20yeonwoo&fontSize=90)
 ### Hi there 👋 My name is Choiyeonwoo(최연우)!
-#### 💡 Unity 클라이언트 개발자 | 아키텍처 설계를 통한 문제 해결을 즐깁니다.
+#### 💡 Unity 클라이언트 개발자 | 아키텍처와 최적화를 중시하는 개발자자
 Run-i Studio 💼 (2020.02 ~ 2025.09)  
 🌐 [https://run-i.com](https://run-i.com)
 
@@ -54,6 +54,7 @@ Run-i Studio 💼 (2020.02 ~ 2025.09)
 
 ### 📜 Certificate
 #### [2025.01] 정보처리기사 취득 (한국산업인력공단)
+#### [2025.08] TOEIC SPEAKING 취득 - Advanced Low(AL)
 
 <br/>
 
