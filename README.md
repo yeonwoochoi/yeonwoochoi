@@ -1,7 +1,6 @@
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Choi%20yeonwoo&fontSize=90)
 ### Hi there 👋 My name is Choiyeonwoo(최연우)!
-#### Run-i Studio 💼 (2020.01 ~ 재직 중)  
+#### Run-i Studio 💼 (2020.02 ~ 재직 중)  
 🌐 [https://run-i.com](https://run-i.com)
 
 **[Rallit](https://www.rallit.com/resumes/1605551@rud527/%EC%B5%9C%EC%97%B0%EC%9A%B0)**
@@ -12,32 +11,36 @@
 
 #### 🧑‍💻Frontend
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black) 
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-
-#### 🧑‍💻Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 #### 🎮Game
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) 
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
+
+#### ☁️Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 
 <br/>
 
 ### 🔭 Work Experiences!
 
-#### [2020.01 ~ 2025.06] Run-i Studio - 프론트엔드 / Unity 클라이언트 개발
+#### [2020.02 ~ 재직 중] Run-i Studio - 프론트엔드 / Unity 클라이언트 개발
 - [2024.02 ~ 2025.05] Yiso's Journey - Ep.1 - Unity 2D RPG 게임 클라이언트 개발
+- [2023.09 ~ 2024.02] Run-i Game Dev Hub - Next.js 기반 No-Code 게임 데이터 관리 툴 개발
 - [2020.02 ~ 2022.05] Jopanda's Math Item Pool - Unity 수학 학습 앱 개발
 
-#### [2022.02 ~ 2022.05] (외주) Vada Partners - Nuxt 기반 특허 검색 웹 앱 개발
+#### [2022.02 ~ 2022.05] (외주) Vada Partners - Nuxt.js 기반 특허 검색 SaaS 웹 개발
 
-#### [2025.06 ~ ] 취준로드 – AI 기반 맞춤형 취업 로드맵 웹 서비스 (제작중)
+#### [2025.06 ~ ] 취준로드 – AI 기반 맞춤형 취업 로드맵 웹 서비스 (개인 프로젝트)
 
 <br/>
 
@@ -52,7 +55,7 @@
 <br/>
 
 ### 📜 Certificate
-#### [2024.09 예정] 정보처리기사 필기/실기 합격 (한국산업인력공단)
+#### [2025.01] 정보처리기사 취득 (한국산업인력공단)
 
 <br/>
 
